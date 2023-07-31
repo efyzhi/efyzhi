@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @efyzhi
-- 👀 I’m interested in web3 and anything blockchain related.. Both coding and writing. 
-- 🌱 I’m currently learning front-end engineering. 
+- 👋 Hi, I’m @efyzhi a Frontend engineer
+- 👀 open to learning and building
 - 💞️ I’m looking to collaborate on any project and volunteer as an intern. 
 - 📫 How to reach me +23470&54212232(whatsapp) @sunnefyzhi(Twitter) 
 
